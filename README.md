@@ -1,7 +1,7 @@
 # Requests
 
 **Requests** is a simple, yet elegant, HTTP library.
-
+Suportado python 3
 ```python
 >>> import requests
 >>> r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
